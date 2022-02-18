@@ -5,7 +5,7 @@
 
 <p align="center">- ❤️ I love writing Python, and building fun experiments on type-level</p>
 
-<p aligin="center">- 👩‍💻 I also code Android applications
+<p align="center">- 👩‍💻 I also code Android applications
 
 <p align="center">- 📈 Founder of Globalitus and Developer of Premium Files</p>
 
