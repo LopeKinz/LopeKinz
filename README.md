@@ -7,7 +7,7 @@
 
 <p align="center">- 👩‍💻 I also code Android applications
 
-<p align="center">- 📈 Founder of Globalitus and Developer of Premium Files</p>
+<p align="center">- 📈 Founder of Globalitus and Developer of the best Discord.py Leveling Module</p>
 
 
 <p align="center"><b>[Languages]</b>  </p>
