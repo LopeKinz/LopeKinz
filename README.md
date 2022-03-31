@@ -21,3 +21,4 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LopeKinz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LopeKinz's github stats" /></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopeKinz&layout=compact&theme=buefy&hide_border=true"></p>
+ <img src="https://komarev.com/ghpvc/?username=LopeKinz" alt="Profile Views Count">
