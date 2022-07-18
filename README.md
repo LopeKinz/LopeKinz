@@ -1,3 +1,5 @@
+<p <img src="https://lanyard.cnrad.dev/api/935464662831620117"</p>
+
 <p align="center"><b>About me</b></p>
 
 
