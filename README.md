@@ -11,7 +11,7 @@
 
 <p align="center">- 👩‍💻 I also code Android applications
 
-<p align="center">- 📈 Founder of Globalitus and Developer of the best Discord.py Leveling Module</p>
+<p align="center">- 💻 Freelancer avaliable for Work! Contact via Discord : legendpinkyhax#1694 </p>
 
 
 <p align="center"><b>[Languages]</b>  </p>
