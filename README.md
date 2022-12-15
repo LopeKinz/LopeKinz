@@ -20,6 +20,8 @@
 <p align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></p>
 <p align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></p>
 
+<p align="center"><b>[Current Projects]</b>  </p>
+<p align="center">- 💻 EasyBots - A Bot Builder for Discord/Youtube/Twitch </p>
 <p align="center"><b>[Stats]</b>  </p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LopeKinz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LopeKinz's github stats" /></a></p>
