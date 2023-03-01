@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lopekinz&label=Profile%20views&color=0e75b6&style=flat" alt="lopekinz" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopekinz" alt="lopekinz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopekinz&theme=onedark" alt="lopekinz" /></a> </p>
 
 - 🔭 I’m currently working on **🎧 Hifiberry Edit Oberstufe - 💻 Defc0n (Impulse Remaster) - 🤖 ChatGPT Programmer (VS Extention)**
 
