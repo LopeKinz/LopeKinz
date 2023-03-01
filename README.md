@@ -1,31 +1,25 @@
-<p href="https://noelp.live/" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/935464662831620117/>
-</p>  
+<h1 align="center">Hi 👋, I'm LopeKinz aka Pinkyhax</h1>
+<h3 align="center">A Hobby Dev from Germany</h3>
 
-<p align="center"><b>About me</b></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopekinz&label=Profile%20views&color=0e75b6&style=flat" alt="lopekinz" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopekinz" alt="lopekinz" /></a> </p>
 
-<p align="center">- 📈 Built Discord Bots and other Python Projects</p>
+- 🔭 I’m currently working on **🎧 Hifiberry Edit Oberstufe - 💻 Defc0n (Impulse Remaster) - 🤖 ChatGPT Programmer (VS Extention)**
 
-<p align="center">- ❤️ I love writing Python, and building fun experiments on type-level</p>
+- 📫 How to reach me **pinkyhax@gmail.com**
 
-<p align="center">- 👩‍💻 I also code Android applications
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/pinkyhax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinkyhax" height="30" width="40" /></a>
+</p>
 
-<p align="center">- 💻 Freelancer avaliable for Work! Contact via Discord : legendpinkyhax#1694 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lopekinz&show_icons=true&locale=en&layout=compact" alt="lopekinz" /></p>
 
-<p align="center"><b>[Languages]</b>  </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopekinz&show_icons=true&locale=en" alt="lopekinz" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lopekinz&" alt="lopekinz" /></p>
 
-<p align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></p>
-<p align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></p>
-<p align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></p>
-
-<p align="center"><b>[Current Projects]</b>  </p>
-<p align="center">- 💻 EasyBots - A Bot Builder for Discord/Youtube/Twitch </p>
-<p align="center"><b>[Stats]</b>  </p>
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LopeKinz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LopeKinz's github stats" /></a></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopeKinz&layout=compact&theme=buefy&hide_border=true"></p>
- <img src="https://komarev.com/ghpvc/?username=LopeKinz" alt="Profile Views Count">
