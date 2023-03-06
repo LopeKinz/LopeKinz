@@ -8,7 +8,8 @@
 * - 🔭 I’m currently working on :
     * 🎧 Hifiberry Edit Oberstufe 
     * 💻 Defc0n (Impulse Remaster) 
-    * 🤖 ChatGPT Programmer (VS Extention)
+    * 🤖 ChatGPT GUI
+    * 🤖 ChatGPT 3D Print Creator
 
 - 📫 How to reach me : **pinkyhax@gmail.com**
 
