@@ -9,7 +9,6 @@
     * 🎧 Hifiberry Edit Oberstufe 
     * 💻 Defc0n (Impulse Remaster) 
     * 🤖 ChatGPT GUI
-    * 🤖 ChatGPT 3D Print Creator
 
 - 📫 How to reach me : **pinkyhax@gmail.com**
 
