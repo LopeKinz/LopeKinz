@@ -18,5 +18,7 @@
 <a href="https://instagram.com/pinkyhax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinkyhax" height="30" width="40" /></a>
 </p>
 
-![Metrics](/github-metrics.svg)
+<p align=center>
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
 
