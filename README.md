@@ -9,6 +9,7 @@
     * 🎧 Hifiberry Edit Oberstufe 
     * 💻 Defc0n (Impulse Remaster) 
     * 🤖 ChatGPT GUI
+    * 🐀 Evoli Rat
 
 - 📫 How to reach me : **pinkyhax@gmail.com**
 
