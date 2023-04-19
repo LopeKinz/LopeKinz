@@ -14,7 +14,7 @@
     * 🤖 ChatGPT GUI
     * 🐀 Evoli Rat
 
-- 📫 How to reach me : **pinkyhax@gmail.com**
+- 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
