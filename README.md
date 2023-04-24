@@ -16,6 +16,9 @@
 
 - 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/pinkyhax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinkyhax" height="30" width="40" /></a>
@@ -24,5 +27,5 @@
 <p align=center>
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopekinz&theme=tokyonight)
+
 
