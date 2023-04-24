@@ -24,4 +24,5 @@
 <p align=center>
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopekinz&theme=tokyonight)
 
