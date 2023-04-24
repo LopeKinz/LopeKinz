@@ -18,6 +18,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Soon Big Update](https://dev.to/lopekinz/soon-big-update-119a)
 <!-- BLOG-POST-LIST:END -->
 
 
