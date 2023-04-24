@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopekinz&theme=tokyonight)
 
 
 <h3 align="center">Connect with me:</h3>
