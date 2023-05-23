@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopekinz&theme=onedark" alt="lopekinz" /></a> </p>
 
 * - 🔭 I’m currently working on :
-   * [pip-installer](https://www.github.com/LopeKinz/pip-installer)
+     * [pip-installer](https://www.github.com/LopeKinz/pip-installer)
 
 - 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
