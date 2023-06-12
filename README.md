@@ -14,6 +14,7 @@
 - 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 # Stats
