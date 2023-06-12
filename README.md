@@ -13,11 +13,7 @@
 
 - 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Soon Big Update](https://dev.to/lopekinz/soon-big-update-119a)
-<!-- BLOG-POST-LIST:END -->
-
+<!--START_SECTION:activity-->
 
 
 # Stats
