@@ -13,6 +13,7 @@
 
 - 📫 How to reach me : [pinkyhax@gmail.com](mailto:pinkyhax@gmail.com)
 
+# Recent Activity 🎉
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#70](https://github.com/facebookresearch/audiocraft/pull/70) in [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 2. 🎉 Merged PR [#1](https://github.com/LopeKinz/audiocraft/pull/1) in [LopeKinz/audiocraft](https://github.com/LopeKinz/audiocraft)
