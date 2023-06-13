@@ -15,16 +15,16 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dekrypted/email-generator/issues/2) in [dekrypted/email-generator](https://github.com/dekrypted/email-generator)
-2. 💪 Opened PR [#70](https://github.com/facebookresearch/audiocraft/pull/70) in [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
-3. 🎉 Merged PR [#1](https://github.com/LopeKinz/audiocraft/pull/1) in [LopeKinz/audiocraft](https://github.com/LopeKinz/audiocraft)
-4. 🗣 Commented on [#613](https://github.com/xtekky/gpt4free/issues/613) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-5. 🗣 Commented on [#635](https://github.com/xtekky/gpt4free/issues/635) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-6. 🗣 Commented on [#645](https://github.com/xtekky/gpt4free/issues/645) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-7. 🗣 Commented on [#660](https://github.com/xtekky/gpt4free/issues/660) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-8. ❌ Closed PR [#589](https://github.com/xtekky/gpt4free/pull/589) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-9. 🗣 Commented on [#1153](https://github.com/r0x0r/pywebview/issues/1153) in [r0x0r/pywebview](https://github.com/r0x0r/pywebview)
-10. 💪 Opened PR [#1153](https://github.com/r0x0r/pywebview/pull/1153) in [r0x0r/pywebview](https://github.com/r0x0r/pywebview)
+1. 🗣 Commented on [#3](https://github.com/maxi-schaefer/Chronos-Nuker/issues/3) in [maxi-schaefer/Chronos-Nuker](https://github.com/maxi-schaefer/Chronos-Nuker)
+2. 🗣 Commented on [#2](https://github.com/dekrypted/email-generator/issues/2) in [dekrypted/email-generator](https://github.com/dekrypted/email-generator)
+3. 💪 Opened PR [#70](https://github.com/facebookresearch/audiocraft/pull/70) in [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+4. 🎉 Merged PR [#1](https://github.com/LopeKinz/audiocraft/pull/1) in [LopeKinz/audiocraft](https://github.com/LopeKinz/audiocraft)
+5. 🗣 Commented on [#613](https://github.com/xtekky/gpt4free/issues/613) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+6. 🗣 Commented on [#635](https://github.com/xtekky/gpt4free/issues/635) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+7. 🗣 Commented on [#645](https://github.com/xtekky/gpt4free/issues/645) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+8. 🗣 Commented on [#660](https://github.com/xtekky/gpt4free/issues/660) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+9. ❌ Closed PR [#589](https://github.com/xtekky/gpt4free/pull/589) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+10. 🗣 Commented on [#1153](https://github.com/r0x0r/pywebview/issues/1153) in [r0x0r/pywebview](https://github.com/r0x0r/pywebview)
 <!--END_SECTION:activity-->
 
 
