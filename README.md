@@ -15,16 +15,16 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/maxi-schaefer/Chronos-Nuker/issues/3) in [maxi-schaefer/Chronos-Nuker](https://github.com/maxi-schaefer/Chronos-Nuker)
-2. 🗣 Commented on [#2](https://github.com/dekrypted/email-generator/issues/2) in [dekrypted/email-generator](https://github.com/dekrypted/email-generator)
-3. 💪 Opened PR [#70](https://github.com/facebookresearch/audiocraft/pull/70) in [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
-4. 🎉 Merged PR [#1](https://github.com/LopeKinz/audiocraft/pull/1) in [LopeKinz/audiocraft](https://github.com/LopeKinz/audiocraft)
-5. 🗣 Commented on [#613](https://github.com/xtekky/gpt4free/issues/613) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-6. 🗣 Commented on [#635](https://github.com/xtekky/gpt4free/issues/635) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-7. 🗣 Commented on [#645](https://github.com/xtekky/gpt4free/issues/645) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-8. 🗣 Commented on [#660](https://github.com/xtekky/gpt4free/issues/660) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-9. ❌ Closed PR [#589](https://github.com/xtekky/gpt4free/pull/589) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-10. 🗣 Commented on [#1153](https://github.com/r0x0r/pywebview/issues/1153) in [r0x0r/pywebview](https://github.com/r0x0r/pywebview)
+1. 🗣 Commented on [#2](https://github.com/sinkins/Exo-Stealer/issues/2) in [sinkins/Exo-Stealer](https://github.com/sinkins/Exo-Stealer)
+2. 🗣 Commented on [#3](https://github.com/maxi-schaefer/Chronos-Nuker/issues/3) in [maxi-schaefer/Chronos-Nuker](https://github.com/maxi-schaefer/Chronos-Nuker)
+3. 🗣 Commented on [#2](https://github.com/dekrypted/email-generator/issues/2) in [dekrypted/email-generator](https://github.com/dekrypted/email-generator)
+4. 💪 Opened PR [#70](https://github.com/facebookresearch/audiocraft/pull/70) in [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
+5. 🎉 Merged PR [#1](https://github.com/LopeKinz/audiocraft/pull/1) in [LopeKinz/audiocraft](https://github.com/LopeKinz/audiocraft)
+6. 🗣 Commented on [#613](https://github.com/xtekky/gpt4free/issues/613) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+7. 🗣 Commented on [#635](https://github.com/xtekky/gpt4free/issues/635) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+8. 🗣 Commented on [#645](https://github.com/xtekky/gpt4free/issues/645) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+9. 🗣 Commented on [#660](https://github.com/xtekky/gpt4free/issues/660) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+10. ❌ Closed PR [#589](https://github.com/xtekky/gpt4free/pull/589) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 <!--END_SECTION:activity-->
 
 
