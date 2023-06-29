@@ -21,16 +21,16 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/SpacehuhnTech/USBNova/issues/4) in [SpacehuhnTech/USBNova](https://github.com/SpacehuhnTech/USBNova)
-2. 🗣 Commented on [#270](https://github.com/AntonOsika/gpt-engineer/issues/270) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
-3. 🗣 Commented on [#279](https://github.com/AntonOsika/gpt-engineer/issues/279) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
-4. 💪 Opened PR [#429](https://github.com/AntonOsika/gpt-engineer/pull/429) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
-5. ❗ Opened issue [#10](https://github.com/blxstealer/BLX-Stealer/issues/10) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
-6. 🗣 Commented on [#111](https://github.com/ncosgray/cuppa_mobile/issues/111) in [ncosgray/cuppa_mobile](https://github.com/ncosgray/cuppa_mobile)
-7. ❗ Opened issue [#4](https://github.com/I-Skid/skid-stealer/issues/4) in [I-Skid/skid-stealer](https://github.com/I-Skid/skid-stealer)
-8. ❗ Opened issue [#111](https://github.com/ncosgray/cuppa_mobile/issues/111) in [ncosgray/cuppa_mobile](https://github.com/ncosgray/cuppa_mobile)
-9. 🗣 Commented on [#40](https://github.com/xtekky/gpt4free/issues/40) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-10. 🗣 Commented on [#279](https://github.com/AntonOsika/gpt-engineer/issues/279) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+1. 💪 Opened PR [#1](https://github.com/NinjaRide/Guildy/pull/1) in [NinjaRide/Guildy](https://github.com/NinjaRide/Guildy)
+2. 🎉 Merged PR [#1](https://github.com/LopeKinz/Guildy/pull/1) in [LopeKinz/Guildy](https://github.com/LopeKinz/Guildy)
+3. 🗣 Commented on [#4](https://github.com/SpacehuhnTech/USBNova/issues/4) in [SpacehuhnTech/USBNova](https://github.com/SpacehuhnTech/USBNova)
+4. 🗣 Commented on [#270](https://github.com/AntonOsika/gpt-engineer/issues/270) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+5. 🗣 Commented on [#279](https://github.com/AntonOsika/gpt-engineer/issues/279) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+6. 💪 Opened PR [#429](https://github.com/AntonOsika/gpt-engineer/pull/429) in [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+7. ❗ Opened issue [#10](https://github.com/blxstealer/BLX-Stealer/issues/10) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
+8. 🗣 Commented on [#111](https://github.com/ncosgray/cuppa_mobile/issues/111) in [ncosgray/cuppa_mobile](https://github.com/ncosgray/cuppa_mobile)
+9. ❗ Opened issue [#4](https://github.com/I-Skid/skid-stealer/issues/4) in [I-Skid/skid-stealer](https://github.com/I-Skid/skid-stealer)
+10. ❗ Opened issue [#111](https://github.com/ncosgray/cuppa_mobile/issues/111) in [ncosgray/cuppa_mobile](https://github.com/ncosgray/cuppa_mobile)
 <!--END_SECTION:activity-->
 
 
