@@ -21,16 +21,16 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/cloutjs/ByeBye-Bitcoin/issues/19) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-2. 💪 Opened PR [#13](https://github.com/blxstealer/BLX-Stealer/pull/13) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
-3. 🎉 Merged PR [#1](https://github.com/LopeKinz/BLX-Stealer/pull/1) in [LopeKinz/BLX-Stealer](https://github.com/LopeKinz/BLX-Stealer)
-4. 💪 Opened PR [#139](https://github.com/mategol/PySilon-malware/pull/139) in [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware)
-5. 🎉 Merged PR [#1](https://github.com/LopeKinz/PySilon-malware/pull/1) in [LopeKinz/PySilon-malware](https://github.com/LopeKinz/PySilon-malware)
-6. ❗ Opened issue [#12](https://github.com/blxstealer/BLX-Stealer/issues/12) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
-7. 🗣 Commented on [#4](https://github.com/SpacehuhnTech/USBNova/issues/4) in [SpacehuhnTech/USBNova](https://github.com/SpacehuhnTech/USBNova)
-8. ❗ Opened issue [#136](https://github.com/mategol/PySilon-malware/issues/136) in [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware)
-9. ❗ Opened issue [#5](https://github.com/DamagingRose/Rose-RAT/issues/5) in [DamagingRose/Rose-RAT](https://github.com/DamagingRose/Rose-RAT)
-10. 🗣 Commented on [#1](https://github.com/Rud3p/Infrarat/issues/1) in [Rud3p/Infrarat](https://github.com/Rud3p/Infrarat)
+1. 🎉 Merged PR [#1](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/pull/1) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+2. 🗣 Commented on [#19](https://github.com/cloutjs/ByeBye-Bitcoin/issues/19) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+3. 💪 Opened PR [#13](https://github.com/blxstealer/BLX-Stealer/pull/13) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
+4. 🎉 Merged PR [#1](https://github.com/LopeKinz/BLX-Stealer/pull/1) in [LopeKinz/BLX-Stealer](https://github.com/LopeKinz/BLX-Stealer)
+5. 💪 Opened PR [#139](https://github.com/mategol/PySilon-malware/pull/139) in [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware)
+6. 🎉 Merged PR [#1](https://github.com/LopeKinz/PySilon-malware/pull/1) in [LopeKinz/PySilon-malware](https://github.com/LopeKinz/PySilon-malware)
+7. ❗ Opened issue [#12](https://github.com/blxstealer/BLX-Stealer/issues/12) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
+8. 🗣 Commented on [#4](https://github.com/SpacehuhnTech/USBNova/issues/4) in [SpacehuhnTech/USBNova](https://github.com/SpacehuhnTech/USBNova)
+9. ❗ Opened issue [#136](https://github.com/mategol/PySilon-malware/issues/136) in [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware)
+10. ❗ Opened issue [#5](https://github.com/DamagingRose/Rose-RAT/issues/5) in [DamagingRose/Rose-RAT](https://github.com/DamagingRose/Rose-RAT)
 <!--END_SECTION:activity-->
 
 
