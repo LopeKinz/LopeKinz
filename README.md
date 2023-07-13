@@ -21,16 +21,16 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/2) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
-2. 🗣 Commented on [#2](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/2#issuecomment-1631957908) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
-3. 🗣 Commented on [#10](https://github.com/cloutjs/ByeBye-Bitcoin/issues/10#issuecomment-1624840511) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-4. 🗣 Commented on [#13](https://github.com/cloutjs/ByeBye-Bitcoin/issues/13#issuecomment-1624840333) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-5. 🗣 Commented on [#15](https://github.com/cloutjs/ByeBye-Bitcoin/issues/15#issuecomment-1624840154) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-6. 🗣 Commented on [#16](https://github.com/cloutjs/ByeBye-Bitcoin/issues/16#issuecomment-1624839980) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-7. 🗣 Commented on [#17](https://github.com/cloutjs/ByeBye-Bitcoin/issues/17#issuecomment-1624839800) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-8. 🗣 Commented on [#18](https://github.com/cloutjs/ByeBye-Bitcoin/issues/18#issuecomment-1624839614) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-9. 🗣 Commented on [#19](https://github.com/cloutjs/ByeBye-Bitcoin/issues/19#issuecomment-1624839449) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
-10. 🎉 Merged PR [#1](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/pull/1) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+1. 🗣 Commented on [#3](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/3#issuecomment-1634801511) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+2. 🔒 Closed issue [#2](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/2) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+3. 🗣 Commented on [#2](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/2#issuecomment-1631957908) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+4. 🗣 Commented on [#10](https://github.com/cloutjs/ByeBye-Bitcoin/issues/10#issuecomment-1624840511) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+5. 🗣 Commented on [#13](https://github.com/cloutjs/ByeBye-Bitcoin/issues/13#issuecomment-1624840333) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+6. 🗣 Commented on [#15](https://github.com/cloutjs/ByeBye-Bitcoin/issues/15#issuecomment-1624840154) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+7. 🗣 Commented on [#16](https://github.com/cloutjs/ByeBye-Bitcoin/issues/16#issuecomment-1624839980) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+8. 🗣 Commented on [#17](https://github.com/cloutjs/ByeBye-Bitcoin/issues/17#issuecomment-1624839800) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+9. 🗣 Commented on [#18](https://github.com/cloutjs/ByeBye-Bitcoin/issues/18#issuecomment-1624839614) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
+10. 🗣 Commented on [#19](https://github.com/cloutjs/ByeBye-Bitcoin/issues/19#issuecomment-1624839449) in [cloutjs/ByeBye-Bitcoin](https://github.com/cloutjs/ByeBye-Bitcoin)
 <!--END_SECTION:activity-->
 
 
