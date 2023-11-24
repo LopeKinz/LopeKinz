@@ -10,7 +10,7 @@
 
 - 💻 Skillset :
 ```
-    Python Development 5+ Years
+    Python Development 6+ Years
     Ruby < 1 Year
     Lua < 1 Year
 ```
