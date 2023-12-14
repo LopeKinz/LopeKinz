@@ -21,11 +21,11 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LopeKinz/taipy/pull/1) in [LopeKinz/taipy](https://github.com/LopeKinz/taipy)
-2. 🗣 Commented on [#3](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/3#issuecomment-1746351790) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
-3. 🔒 Closed issue [#9](https://github.com/LopeKinz/project-evoli/issues/9) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
-4. 🗣 Commented on [#9](https://github.com/LopeKinz/project-evoli/issues/9#issuecomment-1732287229) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
-5. 🗣 Commented on [#1](https://github.com/LopeKinz/KILLIX-Scanner/issues/1#issuecomment-1703941742) in [LopeKinz/KILLIX-Scanner](https://github.com/LopeKinz/KILLIX-Scanner)
+1. 💪 Opened PR [#609](https://github.com/Avaiga/taipy/pull/609) in [Avaiga/taipy](https://github.com/Avaiga/taipy)
+2. 🎉 Merged PR [#1](https://github.com/LopeKinz/taipy/pull/1) in [LopeKinz/taipy](https://github.com/LopeKinz/taipy)
+3. 🗣 Commented on [#3](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/3#issuecomment-1746351790) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+4. 🔒 Closed issue [#9](https://github.com/LopeKinz/project-evoli/issues/9) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
+5. 🗣 Commented on [#9](https://github.com/LopeKinz/project-evoli/issues/9#issuecomment-1732287229) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
 6. 🔒 Closed issue [#8](https://github.com/LopeKinz/project-evoli/issues/8) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
 7. 🗣 Commented on [#8](https://github.com/LopeKinz/project-evoli/issues/8#issuecomment-1643718275) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
 8. 🗣 Commented on [#12](https://github.com/blxstealer/BLX-Stealer/issues/12#issuecomment-1635278859) in [blxstealer/BLX-Stealer](https://github.com/blxstealer/BLX-Stealer)
