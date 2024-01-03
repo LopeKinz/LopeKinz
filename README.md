@@ -21,10 +21,10 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#609](https://github.com/Avaiga/taipy/pull/609) in [Avaiga/taipy](https://github.com/Avaiga/taipy)
-2. 🎉 Merged PR [#1](https://github.com/LopeKinz/taipy/pull/1) in [LopeKinz/taipy](https://github.com/LopeKinz/taipy)
-3. 🗣 Commented on [#3](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/3#issuecomment-1746351790) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
-4. 🔒 Closed issue [#9](https://github.com/LopeKinz/project-evoli/issues/9) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
+1. 🗣 Commented on [#186](https://github.com/donnemartin/system-design-primer/issues/186#issuecomment-1875042816) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+2. 💪 Opened PR [#609](https://github.com/Avaiga/taipy/pull/609) in [Avaiga/taipy](https://github.com/Avaiga/taipy)
+3. 🎉 Merged PR [#1](https://github.com/LopeKinz/taipy/pull/1) in [LopeKinz/taipy](https://github.com/LopeKinz/taipy)
+4. 🗣 Commented on [#3](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/3#issuecomment-1746351790) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
 5. 🗣 Commented on [#9](https://github.com/LopeKinz/project-evoli/issues/9#issuecomment-1732287229) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
 6. 🔒 Closed issue [#8](https://github.com/LopeKinz/project-evoli/issues/8) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
 7. 🗣 Commented on [#8](https://github.com/LopeKinz/project-evoli/issues/8#issuecomment-1643718275) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
