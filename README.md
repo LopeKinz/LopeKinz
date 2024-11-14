@@ -21,9 +21,9 @@
 
 # Recent Activity 🎉
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/LopeKinz/Pinkys_AntiRecoil/pull/2) in [LopeKinz/Pinkys_AntiRecoil](https://github.com/LopeKinz/Pinkys_AntiRecoil)
-2. 🎉 Merged PR [#1](https://github.com/LopeKinz/Pinkys_AntiRecoil/pull/1) in [LopeKinz/Pinkys_AntiRecoil](https://github.com/LopeKinz/Pinkys_AntiRecoil)
-3. 🗣 Commented on [#186](https://github.com/donnemartin/system-design-primer/issues/186#issuecomment-1875042816) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+1. 🗣 Commented on [#5](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster/issues/5#issuecomment-2476113884) in [LopeKinz/ByeBye-Bitcoin-Remaster](https://github.com/LopeKinz/ByeBye-Bitcoin-Remaster)
+2. 🎉 Merged PR [#2](https://github.com/LopeKinz/Pinkys_AntiRecoil/pull/2) in [LopeKinz/Pinkys_AntiRecoil](https://github.com/LopeKinz/Pinkys_AntiRecoil)
+3. 🎉 Merged PR [#1](https://github.com/LopeKinz/Pinkys_AntiRecoil/pull/1) in [LopeKinz/Pinkys_AntiRecoil](https://github.com/LopeKinz/Pinkys_AntiRecoil)
 4. 💪 Opened PR [#609](https://github.com/Avaiga/taipy/pull/609) in [Avaiga/taipy](https://github.com/Avaiga/taipy)
 5. 🎉 Merged PR [#1](https://github.com/LopeKinz/taipy/pull/1) in [LopeKinz/taipy](https://github.com/LopeKinz/taipy)
 6. 🔒 Closed issue [#8](https://github.com/LopeKinz/project-evoli/issues/8) in [LopeKinz/project-evoli](https://github.com/LopeKinz/project-evoli)
